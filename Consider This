@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- 
+        Name: Garrett Loughren
+        File: template.html
+        Date: March 25, 2025
+    -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garrett Loughren - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Garrett Loughren</h1>
+        <h2>Creating Innovative and Efficient Web Solutions</h2>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <!-- Main content area for portfolio information -->
+    <main>
+        <section>
+            <h2>Welcome to My Portfolio</h2>
+            <p>Explore my projects, skills, and background in web development. I specialize in front-end and back-end development to create seamless digital experiences.</p>
+            <p>Feel free to navigate through my site to learn more about my work!</p>
+            <p>&#9733; Featured Project: Interactive Web App &#9733;</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Garrett Loughren. All rights reserved.</p>
+    </footer>
+</body>
+</html>

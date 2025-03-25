@@ -13,6 +13,7 @@
 </head>
 <body>
     <header>
+        <img src="images/garrett.jpg" alt="Garrett Loughren" width="150" height="150">
         <h1>Garrett Loughren</h1>
         <h2>Creating Innovative and Efficient Web Solutions</h2>
     </header>
@@ -37,6 +38,11 @@
     </main>
     
     <footer>
+        <p>&copy; 2025 Garrett Loughren. All rights reserved.</p>
+        <p>Contact: <a href="mailto:yourstudentemail@example.com">yourstudentemail@example.com</a></p>
+    </footer>
+</body>
+</html>
         <p>&copy; 2025 Garrett Loughren. All rights reserved.</p>
     </footer>
 </body>
